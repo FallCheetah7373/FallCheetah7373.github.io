@@ -1,4 +1,16 @@
 <html>
+  <head> <title> FallCheetah7373.github.io </title> <style>
+      body {
+        padding: 25px;
+        background-color: white;
+        color: black;
+        font-size: 25px;
+      }
+      .dark-mode {
+        background-color: black;
+        color: white;
+      }
+    </style> </head>
 <body> 
   <h1> Social Links </h1>
   <a href="https://gitlab.com/FallCheetah7373"> Gitlab </a> <br>
