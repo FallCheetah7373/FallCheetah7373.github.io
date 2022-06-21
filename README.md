@@ -13,7 +13,7 @@
   <a href= "https://www.reddit.com/user/FallCheetah7373">Reddit</a> <br>
   <a href= "https://www.twitch.tv/fallcheetah7373">Twitch</a><br>
   <a href= "https://account.xbox.com/Profile?Gamertag=FallCheetah7373">Xbox</a> <br>
-  <a href= https://steamcommunity.com/profiles/76561198849110144/"">Steam</a> <br>
+  <a href= "https://steamcommunity.com/profiles/76561198849110144/">Steam</a> <br>
   <h1> Description </h1>
   Hey there I am FallCheetah7373 I like to play games such as minecraft and learn about tech, my hobbies are doing redstone, maths and learning about coding & gnu/linux. Thank you for clicking this link lol bye.
   </body>
