@@ -1,4 +1,3 @@
-# FallCheetah7373.github.io
 <html>
 <body> 
   <h1> Social Links </h1>
