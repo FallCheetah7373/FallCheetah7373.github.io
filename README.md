@@ -7,8 +7,8 @@
   <a href="https://mastodon.social/web/@FallCheetah7373"> Mastodon </a> <br>
   <a href="https://github.com/FallCheetah7373">Github</a> <br>
   <a href="https://odysee.com/@FallCheetah7373:9">Odysee</a> <br>
-  <a href= "https://twitter.com/FallCheetah7373">Twitter</a>
-  <a href="https://modrinth.com/user/FallCheetah7373">Modrinth</a>
+  <a href= "https://twitter.com/FallCheetah7373">Twitter</a> <br>
+  <a href="https://modrinth.com/user/FallCheetah7373">Modrinth</a> <br>
   Epic games: FallCheetah7373 (try all caps too) <br>
   Roblox: Inactive so not needed <br>
   Minecraft: FallCheetah7373 <br>
