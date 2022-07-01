@@ -1,6 +1,6 @@
 <html>
   <head> <title> FallCheetah7373.github.io </title> </head>
-<body> 
+<body style="color:rgb(255,255,255); background-color:rgb(48,49,52);"> 
   <h1> Social Links </h1>
   <a href="https://gitlab.com/FallCheetah7373"> Gitlab </a> <br>
   <a href="https://matrix.to/#/@fallcheetah7373:matrix.org">Matrix </a> <br>
